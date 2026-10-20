@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+}
+
+.nav-tabs {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+}
